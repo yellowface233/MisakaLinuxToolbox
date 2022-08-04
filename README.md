@@ -1,3 +1,9 @@
+# RIP For Misaka
+远古版本，没必要fork了，就这样
+给我看傻了。。。
+这里有个新一点的 https://github.com/misaka-gh/MisakaLinuxToolbox
+
+
 # 御坂妹妹们的Linux VPS工具箱
 
 为了方便妹妹们更好的管理他们的服务器，姐姐大人为您们写好了一系列管理脚本了
